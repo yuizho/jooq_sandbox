@@ -38,7 +38,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <configurationFile>${project.basedir}/src/main/resources/library.xml</configurationFile>
+                            <configurationFile>${project.basedir}/jooq_codegen.xml</configurationFile>
                         </configuration>
                     </execution>
                 </executions>
